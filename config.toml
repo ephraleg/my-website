@@ -1,0 +1,4 @@
+baseURL = "https://ephraimohana.us/"
+languageCode = "en-us"
+title = "Ephraim Ohana"
+theme = "stack"
